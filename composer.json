@@ -15,7 +15,7 @@
         "illuminate/contracts": "5.1.*|5.2.*|5.3.*|5.4.*",
         "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*",
         "graham-campbell/manager": "^2.3",
-        "kobermeit/github-api": "^2.0"
+        "kobermeit/github-api": "dev-master"
     },
     "require-dev": {
         "graham-campbell/testbench": "^3.1",
