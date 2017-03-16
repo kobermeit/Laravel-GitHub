@@ -1,4 +1,5 @@
 {
+    "version": "5.1.1",
     "name": "kobermeit/github",
     "description": "GitHub Is A GitHub Bridge For Laravel 5",
     "keywords": ["laravel", "framework", "github", "php-github-api", "PHP GitHub API", "github bridge", "bridge", "GitHub", "Laravel GitHub", "Laravel-GitHub", "Graham Campbell", "GrahamCampbell"],
